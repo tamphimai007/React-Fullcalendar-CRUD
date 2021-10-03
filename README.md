@@ -2,10 +2,12 @@
 สวัสดีครับ สำหรับการติดตั้งนะครับ
 1. ให้เข้าไปในโฟลเดอร์ client และติดตั้ง npm
 >cd client 
+
 >npm install
 
 2.ให้เข้าไปในโฟลเดอร์ server และติดตั้ง npm
 >cd server
+
 >npm install
 
 
